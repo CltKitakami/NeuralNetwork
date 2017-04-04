@@ -1,0 +1,3 @@
+[submodule "MyLib"]
+	path = MyLib
+	url = https://github.com/CltKitakami/MyLib
